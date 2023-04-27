@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "376498785645",
+    "project_id": "adsustech-1f299",
+    "storage_bucket": "adsustech-1f299.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376498785645:android:9aa35f5a2f7ca83e215e64",
+        "android_client_info": {
+          "package_name": "com.ustech.ads"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376498785645-b9t4srql67qqnku9ig7rp0jg2g61j7ud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt7TDlfC1kE4hGxi1hsYD7WnUoi87lI4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376498785645-b9t4srql67qqnku9ig7rp0jg2g61j7ud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
